@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "groups": [
+    {
+      "name": "01 Google & YouTube",
+      "description": "Google/YouTube домены",
+      "domains": "google.com,googleapis.com,googleusercontent.com,gstatic.com,ggpht.com,ytimg.com,googlevideo.com,googleoptimize.com,googleweblight.in,gvt1.com,gvt2.com,gvt3.com,youtube.com,youtu.be,youtube-nocookie.com,youtubekids.com,youtubemusic.com,youtubei.googleapis.com,youtubeembeddedplayer.googleapis.com,yt.be,yt3.ggpht.com,yt3.googleusercontent.com,nhacmp3youtube.com"
+    },
+    {
+      "name": "02 OpenAI & AI",
+      "description": "OpenAI, Anthropic, Gemini и др.",
+      "domains": "openai.com,openai.org,openai.fund,gpt3-openai.com,oaistatic.com,oaiusercontent.com,chatgpt.com,chat.openai.com,api.openai.com,platform.openai.com,auth.openai.com,auth0.openai.com,arena.openai.com,ios.chat.openai.com,claude.ai,claudeusercontent.com,anthropic.com,perplexity.ai,grok.com,generativeai.google,generativelanguage.googleapis.com,gemini.google.com,deepmind.com,deepmind.google"
+    },
+    {
+      "name": "03 Meta (Instagram/FB/WhatsApp)",
+      "description": "Meta и связанные сервисы",
+      "domains": "facebook.com,fb.com,fbcdn.net,facebook.net,fburl.com,fbsbx.com,thefacebook.com,tfbnw.net,instagram.com,cdninstagram.com,igcdn.com,ig.me,igtv.com,imstagram.com,imtagram.com,instaadder.com,instachecker.com,instafallow.com,instafollower.com,instagainer.com,instagda.com,instagify.com,instagmania.com,instagor.com,instagram-brand.com,instagram-engineering.com,instagramhashtags.net,instagram-help.com,instagramhilecim.com,instagramhilesi.org,instagramium.com,instagramizlenme.com,instagramkusu.com,instagramlogin.com,instagrampartners.com,instagramphoto.com,instagram-press.com,instagram-press.net,instagramq.com,instagramsepeti.com,instagramtips.com,instagramtr.com,instagy.com,instamgram.com,instanttelegram.com,instaplayer.net,instastyle.tv,instgram.com,oninstagram.com,onlineinstagram.com,online-instagram.com,web-instagram.net,wwwinstagram.com,whatsapp.com,whatsapp.net,meta.com,threads.net"
+    },
+    {
+      "name": "04 Telegram",
+      "description": "Клиенты и веб-сервисы Telegram",
+      "domains": "telegram.org,t.me,telegram.me,telegram.dog,telegram.space,tdesktop.com,telesco.pe,graph.org,telegra.ph,comments.app,contest.com,fragment.com,quiz.directory,telega.one,tg.dev,tx.me"
+    },
+    {
+      "name": "05 Microsoft",
+      "description": "Microsoft/LinkedIn/ Xbox",
+      "domains": "microsoft.com,microsoftonline.com,microsoft365.com,windows.com,live.com,live.net,msn.com,outlook.com,login.live.com,account.microsoft.com,xbox.com,xboxlive.com,xboxservices.com,gamepass.com,gfx.ms,addr.tools,digicert.com"
+    },
+    {
+      "name": "06 Apple",
+      "description": "Apple и CDN для Apple",
+      "domains": "apple.com,apple.co,apple.news,apple-dns.net,apple-cloudkit.com,apple-mapkit.com,cdn-apple.com,idms-apple.com,portal-repair-uat-apple.com,quid-apple.com,safebrowsing.apple,shop-apple.com,edge.apple,akadns.net,edgekey.net,edgesuite.net,akamaized.net,footprint.net"
+    },
+    {
+      "name": "07 Dev / Tools",
+      "description": "GitHub, Docker, JetBrains, Terraform",
+      "domains": "github.com,githubusercontent.com,githubassets.com,githubcopilot.com,gitlab.com,gitlab.io,bitbucket.org,hashicorp.com,terraform.io,registry.terraform.io,elastic.co,docker.com,docker.io,docker.elastic.co,hub.docker.com,registry-1.docker.io,production.cloudflare.docker.com,jetbrains.com,myjetbrains.com,jetbrains.space,intellij.net,jb.gg"
+    },
+    {
+      "name": "08 Social (прочие)",
+      "description": "X/Twitter, Reddit, Quora, Pinterest, Strava",
+      "domains": "twitter.com,x.com,twttr.com,twitteroauth.com,twimg.com,t.co,tweetdeck.com,pscp.tv,twittercommunity.com,twitterinc.com,twitterstat.us,twitterflightschool.com,twitter.jp,twitpic.com,twvid.com,twtrdns.net,reddit.com,quora.com,pinterest.com,strava.com,linkedin.com,licdn.com,lnkd.in"
+    },
+    {
+      "name": "09 Games",
+      "description": "Steam, Epic, EA, Xbox и др.",
+      "domains": "wbgames.com,wbplay.com,warnerbrosgames.com,ea.com,rockstargames.com,epicgames.com,store.epicgames.com,battle.net,steamcommunity.com,steampowered.com,steamstatic.com,steamserver.net,nintendo.com,xbox.com,xboxlive.com,gamepass.com"
+    },
+    {
+      "name": "10 Streaming",
+      "description": "Netflix, Spotify, Disney+, Twitch",
+      "domains": "netflix.com,netflix.ca,netflix.com.au,netflix.net,netflixstudios.com,netflixinvestor.com,netflixtechblog.com,nflxext.com,nflximg.com,nflxvideo.net,nflxsearch.net,nflxso.net,netflixdnstest1.com,netflixdnstest2.com,netflixdnstest3.com,netflixdnstest4.com,netflixdnstest5.com,netflixdnstest6.com,netflixdnstest7.com,netflixdnstest8.com,netflixdnstest9.com,netflixdnstest10.com,fast.com,spotify.com,spoti.fi,spotifycdn.com,spotifycdn.net,spotifycharts.com,spotifycodes.com,spotifyforbrands.com,spotifyjobs.com,spotify.design,spotify-everywhere.com,disneyplus.com,twitch.tv"
+    },
+    {
+      "name": "11 Torrents & Cinema",
+      "description": "Трекеры и онлайн-кино",
+      "domains": "rutracker.org,rutracker.cc,rutracker.net,rutor.org,rutor.info,rustorka.com,rarbg.to,tapochek.net,thepiratebay.org,thepirate-bay.org,torrentgalaxy.to,torrent-games.best,torrentz2eu.org,limetorrents.info,pirateproxy-bay.com,torlock.com,torrentdownloads.me,eztv.re,game4you.top,megashara.net,nnmclub.to,nnm-club.to,nnm-club.me,kinozal.tv,kinozal.me,kinozal.guru,kino.pub,kinoplay.app,kinovod.net,kinovod.pro,kinobase.org,kino.bar,kinoprofi.club,kinogo.ec,kinozaltv.life,lostfilm.tv,lostfilm.win,lostfilm.download,lostfilm.run,lostfilm.today,lostfilm.top,voidboost.cc,voidboost.com,voidboost.in,voidnetwork.cloud,statichdrezka.ac,hdrezka.pro,hdrezka.me,hdrezka.ag,hdrezka.cm,hdrezka.ac,hdrezka.fm,rezka.ag,rezkify.com,zeflix.online,zetimage.net,zetfix.online,zetflix.online"
+    },
+    {
+      "name": "12 Misc",
+      "description": "Почта/VPN/прочее",
+      "domains": "protonmail.com,protonmail.ch,protonvpn.com,nordvpn.com,yahoo.com,icloud.com,zoom.us,zohomail.com,zona.media"
+    }
+  ]
+}

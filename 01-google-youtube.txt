@@ -1,0 +1,1 @@
+google.com,googleapis.com,googleusercontent.com,gstatic.com,ggpht.com,ytimg.com,googlevideo.com,googleoptimize.com,googleweblight.in,gvt1.com,gvt2.com,gvt3.com,youtube.com,youtu.be,youtube-nocookie.com,youtubekids.com,youtubemusic.com,youtubei.googleapis.com,youtubeembeddedplayer.googleapis.com,yt.be,yt3.ggpht.com,yt3.googleusercontent.com,nhacmp3youtube.com

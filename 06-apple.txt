@@ -1,0 +1,1 @@
+apple.com,apple.co,apple.news,apple-dns.net,apple-cloudkit.com,apple-mapkit.com,cdn-apple.com,idms-apple.com,portal-repair-uat-apple.com,quid-apple.com,safebrowsing.apple,shop-apple.com,edge.apple,akadns.net,edgekey.net,edgesuite.net,akamaized.net,footprint.net
