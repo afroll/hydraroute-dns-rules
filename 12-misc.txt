@@ -1,1 +1,1 @@
-protonmail.com,protonmail.ch,protonvpn.com,nordvpn.com,yahoo.com,yandex.ru,mail.ru,icloud.com,zoom.us,zohomail.com,zona.media
+protonmail.com,protonmail.ch,protonvpn.com,nordvpn.com,yahoo.com,icloud.com,zoom.us,zohomail.com,zona.media
