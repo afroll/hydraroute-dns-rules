@@ -22,9 +22,9 @@
       "domains": "telegram.org,t.me,telegram.me,telegram.dog,telegram.space,tdesktop.com,telesco.pe,graph.org,telegra.ph,comments.app,contest.com,fragment.com,quiz.directory,telega.one,tg.dev,tx.me"
     },
     {
-      "name": "05 Microsoft & LinkedIn",
+      "name": "05 Microsoft",
       "description": "Microsoft/LinkedIn/ Xbox",
-      "domains": "microsoft.com,microsoftonline.com,microsoft365.com,windows.com,live.com,live.net,msn.com,outlook.com,login.live.com,account.microsoft.com,xbox.com,xboxlive.com,xboxservices.com,gamepass.com,gfx.ms,addr.tools,digicert.com,linkedin.com,licdn.com,lnkd.in"
+      "domains": "microsoft.com,microsoftonline.com,microsoft365.com,windows.com,live.com,live.net,msn.com,outlook.com,login.live.com,account.microsoft.com,xbox.com,xboxlive.com,xboxservices.com,gamepass.com,gfx.ms,addr.tools,digicert.com"
     },
     {
       "name": "06 Apple",
@@ -39,7 +39,7 @@
     {
       "name": "08 Social (прочие)",
       "description": "X/Twitter, Reddit, Quora, Pinterest, Strava",
-      "domains": "twitter.com,x.com,twttr.com,twitteroauth.com,twimg.com,t.co,tweetdeck.com,pscp.tv,twittercommunity.com,twitterinc.com,twitterstat.us,twitterflightschool.com,twitter.jp,twitpic.com,twvid.com,twtrdns.net,reddit.com,quora.com,pinterest.com,strava.com"
+      "domains": "twitter.com,x.com,twttr.com,twitteroauth.com,twimg.com,t.co,tweetdeck.com,pscp.tv,twittercommunity.com,twitterinc.com,twitterstat.us,twitterflightschool.com,twitter.jp,twitpic.com,twvid.com,twtrdns.net,reddit.com,quora.com,pinterest.com,strava.com,linkedin.com,licdn.com,lnkd.in"
     },
     {
       "name": "09 Games",
@@ -59,7 +59,7 @@
     {
       "name": "12 Misc",
       "description": "Почта/VPN/прочее",
-      "domains": "protonmail.com,protonmail.ch,protonvpn.com,nordvpn.com,yahoo.com,yandex.ru,mail.ru,icloud.com,zoom.us,zohomail.com,zona.media"
+      "domains": "protonmail.com,protonmail.ch,protonvpn.com,nordvpn.com,yahoo.com,icloud.com,zoom.us,zohomail.com,zona.media"
     }
   ]
 }
