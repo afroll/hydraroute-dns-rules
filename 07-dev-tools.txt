@@ -1,0 +1,1 @@
+github.com,githubusercontent.com,githubassets.com,githubcopilot.com,gitlab.com,gitlab.io,bitbucket.org,hashicorp.com,terraform.io,registry.terraform.io,elastic.co,docker.com,docker.io,docker.elastic.co,hub.docker.com,registry-1.docker.io,production.cloudflare.docker.com,jetbrains.com,myjetbrains.com,jetbrains.space,intellij.net,jb.gg
